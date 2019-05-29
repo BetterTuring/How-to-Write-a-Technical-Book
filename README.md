@@ -49,6 +49,6 @@
 **3. 通过图灵教育官方微信与微博私信**
 
 - 我们的官方微信账号：图灵教育（turingbooks）
-<img src="http://file.ituring.com.cn/Original/19055bdf0d8be63b5e1d" width=100>
+<p align="center"><img src="http://file.ituring.com.cn/Original/19055bdf0d8be63b5e1d" width=100></p>
 
 - 我们的官方微博账号：<a href="https://weibo.com/turingbooks">图灵教育</a>
