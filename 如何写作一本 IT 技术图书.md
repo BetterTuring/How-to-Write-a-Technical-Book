@@ -24,7 +24,7 @@
 
 我们用一张图来表示从选题策划开始到图书上架销售的整个过程。
 
-<div style="align: center"> <img src="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/images/%E5%9B%BE%E7%81%B5%E5%9B%BE%E4%B9%A6%E5%87%BA%E7%89%88%E6%B5%81%E7%A8%8B%E7%A4%BA%E6%84%8F%E5%9B%BE.png" width=400></div>
+<div style="text-align:center"> <img src="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/images/%E5%9B%BE%E7%81%B5%E5%9B%BE%E4%B9%A6%E5%87%BA%E7%89%88%E6%B5%81%E7%A8%8B%E7%A4%BA%E6%84%8F%E5%9B%BE.png" width=400></div>
 
 有时候，你问一个编辑，出一本书需要多长时间？编辑通常都给不了确定的答案，这是因为，图书出版的多个阶段充满了不确定性。我们来看看几个时间弹性比较大的阶段。
 
