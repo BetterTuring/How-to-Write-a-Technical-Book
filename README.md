@@ -14,7 +14,7 @@
 
 **1. GitHub** 
 
-如果你为自己系统积累的内容「系统积累的内容」创建了GitHub 私有仓库，可以邀请我们加入：
+如果你为自己「系统积累的内容」创建了GitHub 私有仓库，可以邀请我们加入：
 
 - BetterTuring（图灵教育官方 GitHub 账号）
 - <a href="https://github.com/wangjunhua">wangjunhua</a>（策划编辑王军花）
@@ -46,7 +46,7 @@
 
   Email：liumy@turingbook.com
 
-**3. 通过图灵教育官方微信与微博联系**
+**3. 通过图灵教育官方微信与微博私信**
 
 - 我们的官方微信账号：图灵教育（turingbooks）
 <img src="http://file.ituring.com.cn/Original/19055bdf0d8be63b5e1d" width=100>
