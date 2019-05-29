@@ -143,7 +143,7 @@
 **3. 通过图灵教育官方微信与微博联系**
 
 - 我们的官方微信账号：图灵教育（turingbooks）
-<div style="align: center"> <img src="http://file.ituring.com.cn/Original/19055bdf0d8be63b5e1d" width=100></div>
+<p align="center"> <img src="http://file.ituring.com.cn/Original/19055bdf0d8be63b5e1d" width=100></p>
 
 - 我们的官方微博账号：<a href="https://weibo.com/turingbooks">图灵教育</a>
 
@@ -155,7 +155,7 @@
 [http://www.ituring.com.cn/](http://www.ituring.com.cn/)
 
 
-<div style="align: center"> <img src="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/images/%E5%9B%BE%E7%81%B5%E6%95%99%E8%82%B2%E9%83%A8%E5%88%86%E4%BC%98%E7%A7%80%E5%8E%9F%E5%88%9B%E5%9B%BE%E4%B9%A6.jpg" width=900></div>
+<p align="center"> <img src="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/images/%E5%9B%BE%E7%81%B5%E6%95%99%E8%82%B2%E9%83%A8%E5%88%86%E4%BC%98%E7%A7%80%E5%8E%9F%E5%88%9B%E5%9B%BE%E4%B9%A6.jpg" width=900></p>
 
 ```
 技术改变世界，阅读塑造人生 @图灵教育
