@@ -1,5 +1,5 @@
 # How-to-Write-a-Technical-Book
-《如何写作一本 IT 技术书》涵盖主题如下：
+<a href="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/%E5%A6%82%E4%BD%95%E5%86%99%E4%BD%9C%E4%B8%80%E6%9C%AC%20IT%20%E6%8A%80%E6%9C%AF%E5%9B%BE%E4%B9%A6.md">《如何写作一本 IT 技术书》</a>涵盖主题如下：
 - 我能写书吗，成为作者的先决条件
 - 流程：出版一本书需要多长时间
 - 目录：好的目录是畅销书的一半
@@ -7,6 +7,8 @@
 - 正文：让书变得富有生命力
 - 销量：一本书能卖多少册
 - 收入：一本书作者能赚多少钱
+
+<a href="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/%E5%89%8D%E8%A8%80%E5%92%8C%E6%AD%A3%E6%96%87%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83.md">《前言和正文写作规范》</a>介绍技术图书前言与正文的写作体例。前言涉及常见写作点；正文涉及章节编号、图表编号、代码段、补充说明内容、脚注，等等。
 
 ##  以下各种方式联系我们
 
