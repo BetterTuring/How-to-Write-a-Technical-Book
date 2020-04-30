@@ -38,7 +38,7 @@
 
 - **陈兴璐**
 
-  微信：chengxinlu
+  微信：chenxinglu
 
   Email：chenxl@turingbook.com
 
