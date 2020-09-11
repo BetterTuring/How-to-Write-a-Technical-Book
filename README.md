@@ -8,7 +8,7 @@
 - 销量：一本书能卖多少册
 - 收入：一本书作者能赚多少钱
 
-<a href="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/%E5%89%8D%E8%A8%80%E5%92%8C%E6%AD%A3%E6%96%87%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83.md">《前言和正文写作规范》</a>介绍技术图书前言与正文的写作体例。前言涉及常见写作点；正文涉及章节编号、图表编号、代码段、补充说明内容、脚注，等等。
+<a href="https://github.com/BetterTuring/How-to-Write-a-Technical-Book/blob/master/1-%E5%89%8D%E8%A8%80%E5%92%8C%E6%AD%A3%E6%96%87%E5%86%99%E4%BD%9C%E8%A7%84%E8%8C%83.md">《前言和正文写作规范》</a>介绍技术图书前言与正文的写作体例。前言涉及常见写作点；正文涉及章节编号、图表编号、代码段、补充说明内容、脚注，等等。
 
 ##  以下各种方式联系我们
 
