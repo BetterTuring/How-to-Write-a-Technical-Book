@@ -128,11 +128,6 @@
 
   Email：zhangx@turingbook.com
 
-- **陈兴璐**
-
-  微信：chengxinlu
-
-  Email：chenxl@turingbook.com
 
 - **英子**
 
