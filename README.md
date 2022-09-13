@@ -30,12 +30,6 @@
 
   Email：wangjh@turingbook.com
 
-- **张霞**
-
-  微信/QQ：1069960962
-
-  Email：zhangx@turingbook.com
-
 - **英子**
 
   微信：yingzi-free
